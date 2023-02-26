@@ -5,7 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 
-https://i.imgur.com/Tbc0BL9.mp4
+![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/bandicam%202023-02-26%2012-58-08-191.gif)
 
 > Utilize por sua conta e risco
 
