@@ -33,7 +33,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o Bot RAID, siga estas etapas:
 
 • Clique em `code`;
+
 • Clique em `Download ZIP`;
+
 • Extraia o projeto;
 
 
@@ -42,8 +44,11 @@ Para instalar o Bot RAID, siga estas etapas:
 Para usar o Bot Raid, siga estas etapas:
 
 • Abra a `index.js`;
+
 • Role até o final do código e substitua o `token-aqui` para o token do seu bot;
+
 • Salve e execute o arquiv `iniciar.bat`;
+
 • Convide o bot para seu servidor.
 
 Utilize .help para ver todos os comandos, é necessário que o bot seja convidado com as permissões de administrador.
@@ -53,9 +58,13 @@ Utilize .help para ver todos os comandos, é necessário que o bot seja convidad
 Para contribuir com Bot RAID, siga estas etapas:
 
 1. Bifurque este repositório.
+
 2. Crie um branch: `git checkout -b <nome_branch>`.
+
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+
 4. Envie para o branch original: `git push origin Bot-Raid / <local>`
+
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
