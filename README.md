@@ -1,9 +1,9 @@
 # Raid BOT
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 
 <video src="https://i.imgur.com/Tbc0BL9.mp4" controls></video>
 
