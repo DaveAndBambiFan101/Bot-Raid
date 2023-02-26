@@ -51,6 +51,7 @@ Para usar o Bot Raid, siga estas etapas:
 
 • Convide o bot para seu servidor.
 
+
 Utilize .help para ver todos os comandos, é necessário que o bot seja convidado com as permissões de administrador.
 
 ## 📫 Contribuindo para Raid BOT
@@ -66,5 +67,6 @@ Para contribuir com Bot RAID, siga estas etapas:
 4. Envie para o branch original: `git push origin Bot-Raid / <local>`
 
 5. Crie a solicitação de pull.
+
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
