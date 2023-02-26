@@ -5,6 +5,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 
+<video src="https://i.imgur.com/Tbc0BL9.mp4" controls></video>
+
 > Utilize por sua conta e risco
 
 ### Funções:
