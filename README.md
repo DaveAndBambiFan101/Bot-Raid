@@ -20,6 +20,8 @@ O projeto tem algumas funções que podem ficar obsoletas com o tempo, porém vo
 - [.createrole] Cria vários cargos
 - [.admin] Cria um cargo com todas as permissões
 - [.nickall] Muda o nickname de todos do servidor
+- [.dmall] Manda uma mensagem para todos que estão no servidor
+- [.help] Mostra o menu de comandos
 
 ## 💻 Pré-requisitos
 
