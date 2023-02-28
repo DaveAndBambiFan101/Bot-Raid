@@ -7,7 +7,7 @@
 
 ![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/gif.gif)
 
-> Repositório para fins educacionais. Utilize por sua conta e risco
+> Repositório para fins educacionais. Utilize por sua conta e risco.
 
 ### Funções:
 
