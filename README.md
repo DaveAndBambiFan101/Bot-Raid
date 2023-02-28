@@ -9,7 +9,7 @@
 
 > Repositório para fins educacionais. Utilize por sua conta e risco.
 
-### Funções:
+## Funções:
 
 O projeto tem algumas funções que podem ficar obsoletas com o tempo, porém vou atualizar ele constantemente
 
