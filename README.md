@@ -5,9 +5,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/bot-raid?style=for-the-badge)
 
-![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/bandicam%202023-02-26%2012-58-08-191.gif)
+![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/gif.gif)
 
-> Utilize por sua conta e risco
+> Repositório para fins educacionais. Utilize por sua conta e risco
 
 ### Funções:
 

