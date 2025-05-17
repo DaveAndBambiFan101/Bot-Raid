@@ -550,5 +550,5 @@ client.on("message", message => {
 
 
 //** TOKEN **//
-client.login(`36KHdiSjFFcjvwwU4YQW15yebFvjQKyUgc`);
+client.login(`TOKEN AQUI!`);
 //** TOKEN **//
