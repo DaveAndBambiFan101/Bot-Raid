@@ -5,58 +5,67 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/Bot-Raid?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/Bot-Raid?style=for-the-badge)
 
-![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/gif.gif)
+WELCOME!
 
-> Repositório para fins educacionais. Utilize por sua conta e risco.
+> THIS IS FOR EDUCATIONAL PURPOSE, WE ARE NOT RESPONSIBLE FOR ANY DAMAGES OR BANS OF YOUR ACCOUNT! SO, USE AN ALT IF NEEDED!
 
-## Funções:
+##  ___  _  _  _  _  __  ____  __  __  _  _  ___  _ 
+## (  _)( )( )( \( )/ _)(_  _)(  )/  \( \( )/ __)(_)
+## ) _) )()(  )  (( (_   )(   )(( () ))  ( \__ \ _ 
+## (_)   \__/ (_)\_)\__) (__) (__)\__/(_)\_)(___/(_):
 
-O projeto tem algumas funções que podem ficar obsoletas com o tempo, porém vou atualizar ele constantemente
+This project is already done, but it came from: ![](https://github.com/gabriel-preti-ferraz/Bot-Raid/blob/main/gif.gif)
 
-- [.nuke] Destrói completamente o servidor
-- [.raid] Cria vários canais com muitos pings
-- [.delchannel] Apaga todos os canais
-- [.delrole] Apaga todos os cargos
-- [.createrole] Cria vários cargos
-- [.admin] Cria um cargo com todas as permissões
-- [.nickall] Muda o nickname de todos do servidor
-- [.dmall] Manda uma mensagem para todos que estão no servidor
-- [.help] Mostra o menu de comandos
+- [.nuke] DESTROY, CEASE, KILL, END THE SERVER
+- [.raid] makes many channels with ping
+- [.delchannel] ERASE ALL OF THE CHANNELS!
+- [.delrole] ERASE ALL OF THE ROLES
+- [.createrole] create all of the roles
+- [.admin] MAKES A ROLE WITH ALL OF THE PERMISSIONS!
+- [.nickall] NAMES EVERYBODY WITH _______
+- [.dmall] DM EVERYBODY THAT IS ON THE SERVER
+- [.help] the classic help command, Simple and informative.
 
-## 💻 Pré-requisitos
+## 💻 Before the installation of raid bot:
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+ ___  ___  ___   __  ___   ___    _  _  __  _  _    ___  ____  __   ___  ____  :
+(  ,)(  _)(  _) /  \(  ,) (  _)  ( \/ )/  \( )( )  / __)(_  _)(  ) (  ,)(_  _) :
+ ) ,\ ) _) ) _)( () ))  \  ) _)   \  /( () ))()(   \__ \  )(  /__\  )  \  )(  :
+(___/(___)(_)   \__/(_)\_)(___)  (__/  \__/ \__/   (___/ (__)(_)(_)(_)\_)(__) :
 
-* Você instalou a versão mais recente de `<Node.js>`
-* Você tem uma máquina `<Windows / Linux>`.
+* Have you installed the latest version of `<Node.js>` ?
+* DO YOU HAVE `<Windows / Linux>` 'S OS?
 
-## 🚀 Instalando Bot RAID
+##   __  _  _  ___  ____  __   __    __        ____  _  _  ___       ___   __  ____    ___  _  _  ___ 
+## (  )( \( )/ __)(_  _)(  ) (  )  (  )      (_  _)( )( )(  _)     (  ,) /  \(_  _)  (  _)( \/ )(  _)
+## )(  )  ( \__ \  )(  /__\  )(__  )(__  ___  )(   )__(  ) _) ___  ) ,\( () ) )(  _  ) _) )  (  ) _)
+## (__)(_)\_)(___/ (__)(_)(_)(____)(____)(___)(__) (_)(_)(___)(___)(___/ \__/ (__)(_)(___)(_/\_)(___)
 
-Para instalar o Bot RAID, siga estas etapas:
+To install the bot:
 
-• Clique em `code`;
+• CLICK IN `code`;
 
-• Clique em `Download ZIP`;
+• CLICK IN `Download ZIP`;
 
-• Extraia o projeto;
-
-
-## ☕ Usando Bot RAID
-
-Para usar o Bot Raid, siga estas etapas:
-
-• Abra a `index.js`;
-
-• Role até o final do código e substitua o `token-aqui` para o token do seu bot;
-
-• Salve e execute o arquiv `iniciar.bat`;
-
-• Convide o bot para seu servidor.
+• EXTRACT THE FILE;
 
 
-Utilize .help para ver todos os comandos, é necessário que o bot seja convidado com as permissões de administrador.
+## ☕ USING THE BOT (important)
 
-## 📫 Contribuindo para Raid BOT
+To use it, follow the folowing rules (dont disobey any of them):
+
+• OPEN `index.js`;
+
+• SCROLL UNTIL THE END AND FIND `token-aqui` TO YOUR BOT'S TOKEN!;
+
+• SAVE AND EXECUTE `iniciar.bat`;
+
+• INVITE YOUR BOT TO YOUR SERVER AND CAUSE CHAOS!.
+
+
+UTILIZE .help TO SEE ALL OF THE COMMANDS, NEEDS ADMINISTRATOR (on server prob why not?)
+
+## 📫 Contribuindo para Raid BOT (lazy to translate this so translate yourself boi)
 
 Para contribuir com Bot RAID, siga estas etapas:
 
